@@ -6,18 +6,19 @@ rss: /atom.xml
 
 # Content
 excerpt_link: Read More
-
+language_switcher: true
 # Social
 disqus_shortname:
 share_enabled: true
 twitter:
 instagram:
 pinterest:
-github:
+github: https://github.com/oldoldtea
 google_plus:
 fb_admins:
 fb_app_id:
 
 # Miscellaneous
 google_analytics:
+  enable:true
 favicon: /favicon/favicon.ico
